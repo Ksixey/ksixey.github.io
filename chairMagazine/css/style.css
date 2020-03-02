@@ -841,27 +841,27 @@ body {
 }
 
 .blog .pic-1 {
-  background-image: url("../../img/1.jpg");
+  background-image: url("./img/1.jpg");
 }
 
 .blog .pic-2 {
-  background-image: url("../../img/2.jpg");
+  background-image: url("./img/2.jpg");
 }
 
 .blog .pic-3 {
-  background-image: url("../../img/3.jpg");
+  background-image: url("./img/3.jpg");
 }
 
 .blog .pic-4 {
-  background-image: url("../../img/4.jpg");
+  background-image: url("./img/4.jpg");
 }
 
 .blog .pic-5 {
-  background-image: url("../../img/5.jpg");
+  background-image: url("./img/5.jpg");
 }
 
 .blog .pic-6 {
-  background-image: url("../../img/6.jpg");
+  background-image: url("./img/6.jpg");
 }
 
 .blog .pic {
@@ -1536,7 +1536,7 @@ body {
   font-size: 18px;
   position: relative;
   padding: 70px 62px;
-  background: #e8edf7 url("../../img/galleryBunner__sofa.png") center bottom 30px no-repeat;
+  background: #e8edf7 url("./img/galleryBunner__sofa.png") center bottom 30px no-repeat;
 }
 
 .galleryBanner__image {
