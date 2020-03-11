@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "title":"Ferrero Rocher Fine Hazelnut Milk Chocolates",
+    "img":"https://i5.walmartimages.com/asr/1f5faca4-2f1e-48df-b097-e9b9857ff8ff_2.80ce63e083bcfef0ad042ffad96fb77f.jpeg?odnHeight=200&odnWidth=200&odnBg=ffffff",
+    "cost":"$18.55",
+    "article":"456789",
+    "color":"yellow"
+  },
+  {
+    "id": "2",
+    "title": "Lindt Lindor Dark Chocolate Truffles",
+    "img":"https://i5.walmartimages.com/asr/1843f1e5-e691-4e9e-b6d7-7759f0e4f926_2.d65c18d79769039520a844e3eb3a8269.jpeg?odnHeight=200&odnWidth=200&odnBg=ffffff",
+    "cost":"$15.8",
+    "article":"776868",
+    "color":"blue"
+  },
+  {
+    "id": "3",
+    "title": "Hershey's Symphony, Milk Chocolate Giant Candy Bar",
+    "img":"https://i5.walmartimages.com/asr/c8be4267-eda2-4982-a469-700972cf45be_2.dc9134da0f59f369a31b852bad9affa9.png?odnHeight=200&odnWidth=200&odnBg=ffffff",
+    "cost":"$3.6",
+    "article":"445799",
+    "color":"milk"
+  },
+  {
+    "id": "4",
+    "title": "Reese's, Easter Chocolate and Peanut Butter Eggs Candy",
+    "img":"https://i5.walmartimages.com/asr/5648e103-3a6d-40a3-ac5f-4a45f523330b_1.caead10e12ec12b8ac8f3369021210eb.png?odnWidth=132&odnHeight=132&odnBg=ffffff",
+    "cost":"$13.5",
+    "article":"665577",
+    "color":"white"
+  },
+  {
+    "id": "5",
+    "title": "Hershey's Giant Milk Chocolate Bar",
+    "img":"https://i5.walmartimages.com/asr/6ad31aeb-c650-44c2-b546-47f0529a2531_2.89d4b82dd3a15b4b693c429c76d6a75e.png?odnWidth=132&odnHeight=132&odnBg=ffffff",
+    "cost":"$2.76",
+    "article":"747349",
+    "color":"black"
+  },
+
+  {
+    "id": "6",
+    "title":"M&M'S Milk Chocolate Candies",
+    "img":"https://i5.walmartimages.com/asr/e9f1dad0-0c39-48d7-93e2-68481ee3a6dd_1.2e6a67a44dd9af679fc4480d1cf531b7.jpeg?odnWidth=132&odnHeight=132&odnBg=ffffff",
+    "cost":"$8.75",
+    "article":"959949",
+    "color":"blue"
+  },
+  {
+    "id": "7",
+  "title": "Mars MINIS & FUN SIZE Chocolate",
+  "img":"https://i5.walmartimages.com/asr/f7175505-f98c-4a60-a4de-7d7d404d4d2f_1.4c45c6059ac2403ec5af4fb28f2e264d.jpeg?odnWidth=132&odnHeight=132&odnBg=ffffff",
+  "cost":"$10.65",
+  "article":"756443",
+  "color":"gold"
+},
+  {
+    "id": "8",
+    "title": "Ferrero Rocher Fine Hazelnut Milk Chocolate and Coconut Assorted Confections",
+    "img":"https://i5.walmartimages.com/asr/303a3767-d163-4c35-aeb8-9d4fbd3f4a3c_1.527d83f0ff548f3b6f23d99c810f67b2.jpeg?odnHeight=200&odnWidth=200&odnBg=ffffff",
+    "cost":"$20.55",
+    "article":"456789",
+    "color":"orange"
+  },
+  {
+    "id": "9",
+    "title": "Ghirardelli Dark Chocolate Assortment",
+    "img":"https://i5.walmartimages.com/asr/2aaef43e-8195-4db3-a382-d4c1a1d2ac12_1.7d53749bb777b73fac5a33b32ec88bf6.jpeg?odnHeight=200&odnWidth=200&odnBg=ffffff",
+    "cost":"$24.76",
+    "article":"456799",
+    "color":"brown"
+  },
+
+  {
+    "id": "10",
+  "title": "Hershey's Kisses, Milk Chocolate Candy",
+    "img":"https://i5.walmartimages.com/asr/dbd71569-8df7-444c-a61a-1cecef8da72a_3.eb4739828b5d1f3eb16a56351f96308d.png?odnHeight=200&odnWidth=200&odnBg=ffffff",
+    "cost":"$25.8",
+    "article":"765498",
+    "color":"silver"
+  }
+
+]
